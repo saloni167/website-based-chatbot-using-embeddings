@@ -5,5 +5,5 @@ langchain
 langchain-community
 sentence-transformers
 chromadb
-openai
+langchain-openai
 python-dotenv
